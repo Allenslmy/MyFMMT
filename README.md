@@ -1,2 +1,2 @@
 # MyFMMT
-Manager Tool
+Manager tool
